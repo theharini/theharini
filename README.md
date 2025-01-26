@@ -42,6 +42,9 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" height = 30px width = 100px></a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theharini)
+
 
 
 <h3 align="left">Most Used Languages:</h3>
