@@ -1,8 +1,7 @@
 ## Hi there 👋, Welcome to my Github page!
 
 
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                         
+<img align="right" alt="Coding" width="400" src="https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/anime%201.gif">                                    
 - 🌱 I’m currently learning DSA
 
 
