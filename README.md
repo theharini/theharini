@@ -1,14 +1,29 @@
 ## Hi there 👋, Welcome to my Github page!
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/anime%201.gif">                                    
-- 🌱 I’m currently learning DSA
+<img align="right" alt="Coding" width="400" src="https://github.com/theharini/theharini/blob/main/anime%201.gif">         
 
 
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theharini17/)
+- 🌱 I’m currently learning **Java**
+
+- 👨‍💻 All of my projects are available at [https://github.com/theharini](https://github.com/theharini)
+
+- 💬 Ask me about the languages and tools I know.
+
+- 📫 How to reach me **harinirajarv@gmail.com**   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theharini17/)
+
+
+- 🖥️ I have a basic understanding of **C** and **Python**
+
+- 🎯 **My Goals**: To constantly learn new technologies and improve my skills to make meaningful contributions to projects.
+
+- 💡 **Personal Interests**: Beyond my interest in coding, I love **travelling** and enjoy **connecting with people**.
+
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japan
+
+
+
 
 
 ### I code in
