@@ -8,7 +8,7 @@
 
 - 💬 Ask me about the languages and tools I know.
 
-- 📫 How to reach me **harinirajarv@gmail.com**   <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+- 📫 How to reach me   <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theharini17/)
 
 - 🖥️ I have a basic understanding of **C** and **Python**
 
@@ -33,7 +33,7 @@
 
 
 ### Competitive Programming & Problem Solving
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" height = 30px width = 100px/></a>
   &emsp;
