@@ -2,8 +2,7 @@
 
 
 
-<img align="right" width="370" height="290" src="![Uploading image.png…]()
-">                                             
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                         
 - 🌱 I’m currently learning DSA
 
 
@@ -25,4 +24,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Harini001?theme=dark&font=Noto%20Sans%20Thaana)
 
-![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theharini&bg_color=000000&color=04ff00&line=36fa00&point=ffffff&area=true&hide_border=true)
+![Harini github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theharini&bg_color=000000&color=04ff00&line=36fa00&point=ffffff&area=true&hide_border=true)
