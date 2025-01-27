@@ -1,6 +1,6 @@
 ## Hi there 👋, It's me Harini
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/anime%201.gif">
+<img align="right" alt="Coding" width="400" src="Github anime.gif">
 
 
 
