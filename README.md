@@ -20,15 +20,15 @@
 
 - 📫 How to reach me   <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theharini17/)
 
-- 🖥️ I have a basic understanding of **C** and **Python**
+- 🖥️ I have a basic understanding of **Java**
 
 - 🎯 **My Goals**: To constantly learn new technologies and improve my skills to make meaningful contributions to projects.
 
 - 💡 **Personal Interests**: Beyond my interest in coding, I love **travelling** and enjoy **connecting with people**.
 
-- 😄 Pronouns: Techie
+- 😄 Pronouns: InnavateHer
   
-- ⚡ Fun fact: I know Japan
+
 
 
 
