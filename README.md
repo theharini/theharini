@@ -27,9 +27,6 @@
 - 💡 **Personal Interests**: Beyond my interest in coding, I love **travelling** and enjoy **connecting with people**.
 
 - 😄 Pronouns: InnavateHer
-  
-
-
 
 
 
